@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\bin\Debug\net8.0\finans takip sistemi.exe
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\bin\Debug\net8.0\finans takip sistemi.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\bin\Debug\net8.0\finans takip sistemi.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\bin\Debug\net8.0\finans takip sistemi.dll
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\bin\Debug\net8.0\finans takip sistemi.pdb
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\finans takip sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\finans takip sistemi.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\finans takip sistemi.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\finans takip sistemi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\finans takip sistemi.dll
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\refint\finans takip sistemi.dll
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\finans takip sistemi.pdb
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\finans takip sistemi.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\finans takip sistemi\finans takip sistemi\obj\Debug\net8.0\ref\finans takip sistemi.dll

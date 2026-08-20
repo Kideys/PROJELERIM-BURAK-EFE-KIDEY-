@@ -1,0 +1,4 @@
+gelir|1.11.2025|maaş|+22105
+gelir|15.11.2025|borç|+3000
+gider|15.11.2025|manifest konser|-2000
+gelir|24.11.2025|serikatil|+150000
