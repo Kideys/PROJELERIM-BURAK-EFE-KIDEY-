@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\bin\Debug\net8.0\doviz dönüştürücü.exe
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\bin\Debug\net8.0\doviz dönüştürücü.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\bin\Debug\net8.0\doviz dönüştürücü.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\bin\Debug\net8.0\doviz dönüştürücü.dll
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\bin\Debug\net8.0\doviz dönüştürücü.pdb
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\doviz dönüştürücü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\doviz dönüştürücü.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\doviz dönüştürücü.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\doviz dönüştürücü.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\doviz dönüştürücü.dll
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\refint\doviz dönüştürücü.dll
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\doviz dönüştürücü.pdb
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\doviz dönüştürücü.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\doviz dönüştürücü\doviz dönüştürücü\obj\Debug\net8.0\ref\doviz dönüştürücü.dll

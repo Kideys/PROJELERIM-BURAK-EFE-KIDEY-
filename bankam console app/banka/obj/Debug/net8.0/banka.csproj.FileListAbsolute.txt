@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\bin\Debug\net8.0\banka.exe
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\bin\Debug\net8.0\banka.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\bin\Debug\net8.0\banka.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\bin\Debug\net8.0\banka.dll
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\bin\Debug\net8.0\banka.pdb
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\banka.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\banka.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\banka.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\banka.dll
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\refint\banka.dll
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\banka.pdb
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\banka.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\bankam\banka\obj\Debug\net8.0\ref\banka.dll

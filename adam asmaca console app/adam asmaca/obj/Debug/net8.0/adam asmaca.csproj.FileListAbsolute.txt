@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\bin\Debug\net8.0\adam asmaca.exe
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\bin\Debug\net8.0\adam asmaca.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\bin\Debug\net8.0\adam asmaca.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\bin\Debug\net8.0\adam asmaca.dll
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\bin\Debug\net8.0\adam asmaca.pdb
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\adam asmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\adam asmaca.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\adam asmaca.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\adam asmaca.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\adam asmaca.dll
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\refint\adam asmaca.dll
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\adam asmaca.pdb
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\adam asmaca.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\adam asmaca\adam asmaca\obj\Debug\net8.0\ref\adam asmaca.dll
