@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Taş Kagit Makas/1.0.0": {
+        "runtime": {
+          "Taş Kagit Makas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taş Kagit Makas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

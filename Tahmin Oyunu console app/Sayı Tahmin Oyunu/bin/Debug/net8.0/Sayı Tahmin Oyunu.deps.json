@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sayı Tahmin Oyunu/1.0.0": {
+        "runtime": {
+          "Sayı Tahmin Oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sayı Tahmin Oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\bin\Debug\net8.0\takvim.exe
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\bin\Debug\net8.0\takvim.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\bin\Debug\net8.0\takvim.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\bin\Debug\net8.0\takvim.dll
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\bin\Debug\net8.0\takvim.pdb
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\takvim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\takvim.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\takvim.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\takvim.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\takvim.dll
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\refint\takvim.dll
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\takvim.pdb
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\takvim.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\takvim\takvim\obj\Debug\net8.0\ref\takvim.dll

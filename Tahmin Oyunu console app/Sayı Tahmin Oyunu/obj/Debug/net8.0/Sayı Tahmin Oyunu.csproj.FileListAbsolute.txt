@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\net8.0\Sayı Tahmin Oyunu.exe
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\net8.0\Sayı Tahmin Oyunu.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\net8.0\Sayı Tahmin Oyunu.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\net8.0\Sayı Tahmin Oyunu.dll
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\net8.0\Sayı Tahmin Oyunu.pdb
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\Sayı Tahmin Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\Sayı Tahmin Oyunu.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\Sayı Tahmin Oyunu.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\Sayı Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\Sayı Tahmin Oyunu.dll
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\refint\Sayı Tahmin Oyunu.dll
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\Sayı Tahmin Oyunu.pdb
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\Sayı Tahmin Oyunu.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\net8.0\ref\Sayı Tahmin Oyunu.dll

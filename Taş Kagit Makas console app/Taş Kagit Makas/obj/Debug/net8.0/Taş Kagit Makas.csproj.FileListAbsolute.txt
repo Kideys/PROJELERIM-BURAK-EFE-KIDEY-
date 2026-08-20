@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\bin\Debug\net8.0\Taş Kagit Makas.exe
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\bin\Debug\net8.0\Taş Kagit Makas.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\bin\Debug\net8.0\Taş Kagit Makas.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\bin\Debug\net8.0\Taş Kagit Makas.dll
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\bin\Debug\net8.0\Taş Kagit Makas.pdb
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\Taş Kagit Makas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\Taş Kagit Makas.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\Taş Kagit Makas.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\Taş Kagit Makas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\Taş Kagit Makas.dll
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\refint\Taş Kagit Makas.dll
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\Taş Kagit Makas.pdb
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\Taş Kagit Makas.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\Taş Kagit Makas\Taş Kagit Makas\obj\Debug\net8.0\ref\Taş Kagit Makas.dll
