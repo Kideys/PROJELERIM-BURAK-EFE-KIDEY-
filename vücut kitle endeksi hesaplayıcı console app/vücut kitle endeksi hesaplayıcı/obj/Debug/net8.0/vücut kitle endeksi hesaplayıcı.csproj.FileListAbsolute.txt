@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\bin\Debug\net8.0\vücut kitle endeksi hesaplayıcı.exe
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\bin\Debug\net8.0\vücut kitle endeksi hesaplayıcı.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\bin\Debug\net8.0\vücut kitle endeksi hesaplayıcı.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\bin\Debug\net8.0\vücut kitle endeksi hesaplayıcı.dll
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\bin\Debug\net8.0\vücut kitle endeksi hesaplayıcı.pdb
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\vücut kitle endeksi hesaplayıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\vücut kitle endeksi hesaplayıcı.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\vücut kitle endeksi hesaplayıcı.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\vücut kitle endeksi hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\vücut kitle endeksi hesaplayıcı.dll
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\refint\vücut kitle endeksi hesaplayıcı.dll
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\vücut kitle endeksi hesaplayıcı.pdb
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\vücut kitle endeksi hesaplayıcı.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\vücut kitle endeksi hesaplayıcı\vücut kitle endeksi hesaplayıcı\obj\Debug\net8.0\ref\vücut kitle endeksi hesaplayıcı.dll
