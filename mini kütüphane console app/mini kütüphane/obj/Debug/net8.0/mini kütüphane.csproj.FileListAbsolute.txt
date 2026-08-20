@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\bin\Debug\net8.0\mini kütüphane.exe
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\bin\Debug\net8.0\mini kütüphane.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\bin\Debug\net8.0\mini kütüphane.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\bin\Debug\net8.0\mini kütüphane.dll
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\bin\Debug\net8.0\mini kütüphane.pdb
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\mini kütüphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\mini kütüphane.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\mini kütüphane.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\mini kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\mini kütüphane.dll
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\refint\mini kütüphane.dll
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\mini kütüphane.pdb
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\mini kütüphane.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\mini kütüphane\mini kütüphane\obj\Debug\net8.0\ref\mini kütüphane.dll

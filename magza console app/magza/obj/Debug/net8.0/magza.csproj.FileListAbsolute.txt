@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\bin\Debug\net8.0\magza.exe
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\bin\Debug\net8.0\magza.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\bin\Debug\net8.0\magza.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\bin\Debug\net8.0\magza.dll
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\bin\Debug\net8.0\magza.pdb
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\magza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\magza.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\magza.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\magza.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\magza.dll
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\refint\magza.dll
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\magza.pdb
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\magza.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\magza\magza\obj\Debug\net8.0\ref\magza.dll

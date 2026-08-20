@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\bin\Debug\net8.0\not ortalama hesaplayıcı.exe
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\bin\Debug\net8.0\not ortalama hesaplayıcı.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\bin\Debug\net8.0\not ortalama hesaplayıcı.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\bin\Debug\net8.0\not ortalama hesaplayıcı.dll
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\bin\Debug\net8.0\not ortalama hesaplayıcı.pdb
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\not ortalama hesaplayıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\not ortalama hesaplayıcı.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\not ortalama hesaplayıcı.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\not ortalama hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\not ortalama hesaplayıcı.dll
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\refint\not ortalama hesaplayıcı.dll
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\not ortalama hesaplayıcı.pdb
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\not ortalama hesaplayıcı.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\not ortalama hesaplayıcı\not ortalama hesaplayıcı\obj\Debug\net8.0\ref\not ortalama hesaplayıcı.dll
