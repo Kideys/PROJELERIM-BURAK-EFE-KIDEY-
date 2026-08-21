@@ -1,0 +1,114 @@
+local TweenService = game:GetService("TweenService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local KameraEvent = ReplicatedStorage:WaitForChild("DolapKameraEvent")
+
+local Direk = script.Parent.direk
+local Kapak = script.Parent.Kapak
+local ProximityPrompt = Kapak.ProximityPromptdolap
+local SaklanmaNoktasi = script.Parent:WaitForChild("SaklanmaNoktasi")
+
+local acilisses = script.Parent:WaitForChild("acılıssesi")
+local kapanisses = script.Parent:WaitForChild("kapanıssesi")
+local CF = Instance.new("CFrameValue")
+local baslangicCFrame = Direk.CFrame
+CF.Value = baslangicCFrame
+
+local calisiyomu = false
+local icerdekiOyuncu = nil 
+
+CF.Changed:Connect(function()
+	Direk.CFrame = CF.Value
+end)
+
+ProximityPrompt.ActionText = "Saklan"
+ProximityPrompt.Triggered:Connect(function(player)
+	if calisiyomu then return end
+	calisiyomu = true
+
+	local character = player.Character
+	local hrp = character:FindFirstChild("HumanoidRootPart")
+	local humanoid = character:FindFirstChild("Humanoid")
+
+	if not icerdekiOyuncu then
+		if hrp and humanoid then
+			-- Kamera efektini tetikle
+			KameraEvent:FireClient(player, "IceriGir", SaklanmaNoktasi.CFrame) 
+
+			ProximityPrompt.Enabled = false
+			hrp.Anchored = true
+			humanoid.AutoRotate = false
+
+			-- 1. ADIM: KAPI AÇILIYOR
+			local acilis = TweenService:Create(CF, TweenInfo.new(0.3), {Value = baslangicCFrame * CFrame.Angles(0, math.rad(135), 0)})
+			acilisses:Play()
+			acilis:Play()
+
+			-- 2. ADIM: KARAKTER OLDUĞU YERDE DÖNÜYOR
+			local mevcutPos = hrp.Position
+			local hedefAcisi = math.rad(SaklanmaNoktasi.Orientation.Y + 285)
+			local donusCFrame = CFrame.new(mevcutPos) * CFrame.Angles(0, hedefAcisi, 0)
+
+			local donusTween = TweenService:Create(hrp, TweenInfo.new(0.9, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut), {CFrame = donusCFrame})
+			donusTween:Play()
+			donusTween.Completed:Wait()-- Dönüş bitene kadar süzülme başlamaz
+
+			-- 3. ADIM: KAPIYI KAPATMA KOMUTU (Gecikmeli)
+			task.delay(0.3, function()
+				local kapanis = TweenService:Create(CF, TweenInfo.new(0.9), {Value = baslangicCFrame})
+				kapanisses:Play()
+				kapanis:Play()
+			end)
+
+			character:SetAttribute("Saklaniyor", true)
+
+			-- 4. ADIM: İÇERİ SÜZÜLME (Dönüşü koruyarak pozisyona gider)
+			local arkayaGitmeOfseti = CFrame.new(0, 0, 0) 
+			local finalHedef = CFrame.new(SaklanmaNoktasi.Position) * donusCFrame.Rotation * arkayaGitmeOfseti
+
+			local suzulme = TweenService:Create(hrp, TweenInfo.new(1.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {CFrame = finalHedef})
+			suzulme:Play()
+			suzulme.Completed:Wait()
+
+			icerdekiOyuncu = player 
+			ProximityPrompt.ActionText = "Dışarı Çık"
+			ProximityPrompt.Enabled = true
+			ProximityPrompt.HoldDuration = 0
+			Kapak.CanCollide = false
+			wait(0.8)
+		end
+
+	elseif icerdekiOyuncu == player then
+		if hrp and humanoid then
+			ProximityPrompt.Enabled = false
+
+			-- KAPIYI AÇ
+			local acilis = TweenService:Create(CF, TweenInfo.new(0.5), {Value = baslangicCFrame * CFrame.Angles(0, math.rad(135), 0)})
+			acilisses:Play()
+			acilis:Play()
+			acilis.Completed:Wait()
+
+			-- DIŞARI ÇIK
+			KameraEvent:FireClient(player, "DisariCik")
+			local disariCFrame = SaklanmaNoktasi.CFrame * CFrame.new(0, 0, 4)
+			local cikisTween = TweenService:Create(hrp, TweenInfo.new(0.6, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {CFrame = disariCFrame})
+			cikisTween:Play()
+			cikisTween.Completed:Wait()
+
+			hrp.Anchored = false
+			humanoid.AutoRotate = true
+			character:SetAttribute("Saklaniyor", false)
+
+			-- KAPIYI KAPAT
+			local kapanis = TweenService:Create(CF, TweenInfo.new(0.5), {Value = baslangicCFrame})
+			kapanisses:Play()
+			kapanis:Play()
+
+			icerdekiOyuncu = nil 
+			ProximityPrompt.ActionText = "Saklan"
+			ProximityPrompt.Enabled = true
+			ProximityPrompt.HoldDuration = 1
+		end
+	end
+
+	calisiyomu = false
+end)
